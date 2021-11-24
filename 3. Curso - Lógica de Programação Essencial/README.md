@@ -15,3 +15,6 @@
     - Practical application with matrices and vectors
 
 ## Course notes
+
+## Instructor
+Denilson Bonatti
