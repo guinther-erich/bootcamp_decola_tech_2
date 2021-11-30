@@ -25,7 +25,7 @@ In this intensive course I will learn about backend development in C# and .Net, 
 18. :white_large_square: Mentoria #3 - Tire suas dúvidas sobre a programação orientada a objetos com exemplos práticos
 19. :white_large_square: Mentoria #4 - Inclusão e Diversidade na Avanade
 20. :white_large_square: Mentoria #5 - Testes de Software em .NET. Exemplos de utilização com experts da AVANADE
-21. :white_large_square: Desafios - Programando em C#
+21. :ballot_box_with_check: Desafios - Programando em C#
 22. :ballot_box_with_check: Projeto - Criando um APP simples de cadastro de séries em .NET
 23. :ballot_box_with_check: Curso - SQL SERVER - Criando suas primeiras consultas
 24. :ballot_box_with_check: Curso - Modelando um banco de dados na prática com SQL SERVER
