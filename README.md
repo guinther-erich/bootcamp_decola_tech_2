@@ -31,7 +31,12 @@ In this intensive course I will learn about backend development in C# and .Net, 
 24. :ballot_box_with_check: Curso - Modelando um banco de dados na prática com SQL SERVER
 25. :ballot_box_with_check: Curso - SQL Server: Boas práticas em bancos relacionais
 26. :ballot_box_with_check: Mentoria #6 - Criando uma API REST Simples com .NET Core
-27. :white_large_square: Mentoria #7 - Finalizando o Decola Tech. A um passo de ser sangue laranja!
+
+
+## Additional contents
+
+27. :white_large_square: <a href="https://www.youtube.com/watch?v=UXpQEf2sD1Y" target=_blank>Live inaugural on YouTube.</a>
+28. :white_large_square: Mentoria #7 - Finalizando o Decola Tech. A um passo de ser sangue laranja!
 
 ## More informations
 
