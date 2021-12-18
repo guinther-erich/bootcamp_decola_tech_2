@@ -34,9 +34,9 @@ In this intensive course I will learn about backend development in C# and .Net, 
 
 ## Additional contents
 
-26. :ballot_box_with_check: <a href="https://www.youtube.com/watch?v=UXpQEf2sD1Y" target=_blank>Decola Tech 2a Edição - Contratação de Devs Estagiários na Avanade</a>
-27. :ballot_box_with_check: <a href="https://www.youtube.com/watch?v=-EJvsV9NxZY" target=_blank>Como iniciar a sua carreira na Avanade? | Bate-papo com os Contratados Decola Tech</a>
-28. :ballot_box_with_check: <a href="https://www.youtube.com/watch?v=3GG0Ge44pbQ" target=_blank>Papo de Dev - Retrospectiva 2021 e novidades 2022</a>
+26. :ballot_box_with_check: <a href="https://www.youtube.com/watch?v=UXpQEf2sD1Y" target=_blank>Gravação da Live - Decola Tech 2a Edição - Contratação de Devs Estagiários na Avanade</a>
+27. :ballot_box_with_check: <a href="https://www.youtube.com/watch?v=-EJvsV9NxZY" target=_blank>Gravação da Live - Como iniciar a sua carreira na Avanade? | Bate-papo com os Contratados Decola Tech</a>
+28. :ballot_box_with_check: <a href="https://www.youtube.com/watch?v=3GG0Ge44pbQ" target=_blank>Gravação da Live - Papo de Dev - Retrospectiva 2021 e novidades 2022</a>
 29. :white_large_square: Mentoria #7 - Finalizando o Decola Tech. A um passo de ser sangue laranja!
 
 ## More informations
