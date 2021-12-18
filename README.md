@@ -20,9 +20,9 @@ In this intensive course I will learn about backend development in C# and .Net, 
 13. :ballot_box_with_check: Curso - Fundamentos de Coleções e LINQ com .NET
 14. :ballot_box_with_check: Curso - Introdução a microsserviços com .NET
 15. :ballot_box_with_check: Curso - Introdução a Design Patterns com .NET
-16. :white_large_square: Mentoria #2 - Como resolver o desafio de código
-17. :white_large_square: Mentoria #3 - Tire suas dúvidas sobre a programação orientada a objetos com exemplos práticos
-18. :white_large_square: Mentoria #4 - Inclusão e Diversidade na Avanade
+16. :ballot_box_with_check: Mentoria #2 - Como resolver o desafio de código
+17. :ballot_box_with_check: Mentoria #3 - Tire suas dúvidas sobre a programação orientada a objetos com exemplos práticos
+18. :ballot_box_with_check: Mentoria #4 - Inclusão e Diversidade na Avanade
 19. :white_large_square: Mentoria #5 - Testes de Software em .NET. Exemplos de utilização com experts da AVANADE
 20. :ballot_box_with_check: Desafios - Programando em C#
 21. :ballot_box_with_check: Projeto - Criando um APP simples de cadastro de séries em .NET
@@ -34,8 +34,10 @@ In this intensive course I will learn about backend development in C# and .Net, 
 
 ## Additional contents
 
-26. :ballot_box_with_check: <a href="https://www.youtube.com/watch?v=UXpQEf2sD1Y" target=_blank>Record at opening live on YouTube.</a>
-27. :white_large_square: Mentoria #7 - Finalizando o Decola Tech. A um passo de ser sangue laranja!
+26. :ballot_box_with_check: <a href="https://www.youtube.com/watch?v=UXpQEf2sD1Y" target=_blank>Decola Tech 2a Edição - Contratação de Devs Estagiários na Avanade</a>
+27. :ballot_box_with_check: <a href="https://www.youtube.com/watch?v=-EJvsV9NxZY" target=_blank>Como iniciar a sua carreira na Avanade? | Bate-papo com os Contratados Decola Tech</a>
+28. :ballot_box_with_check: <a href="https://www.youtube.com/watch?v=3GG0Ge44pbQ" target=_blank>Papo de Dev - Retrospectiva 2021 e novidades 2022</a>
+29. :white_large_square: Mentoria #7 - Finalizando o Decola Tech. A um passo de ser sangue laranja!
 
 ## More informations
 
